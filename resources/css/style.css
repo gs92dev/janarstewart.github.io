@@ -1,0 +1,49 @@
+
+body {
+    font-family: Urbanist, sans-serif;
+    box-sizing: border-box;
+    padding: 20px;
+    margin: 0;
+}
+
+.splash {
+    background-image: url("./resources/images/river.png");
+}
+
+.name {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    font-family: Urbanist, sans-serif;
+    color:#fff;
+    font-size: 9.375rem; /* 150px / 16px (default font size) = 9.375rem */
+  }
+
+nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  ul {
+    display: flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 0 10px;
+  }
+  
+  a {
+    display: block;
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px;
+  }
+  
+  p {
+    font-family: Arial, sans-serif;
+  }
