@@ -7,7 +7,7 @@ body {
 }
 
 .home {
-    background-image: url("./resources/images/river.png");
+    background-image: url("../images/river.png");
 }
 
 .name {
