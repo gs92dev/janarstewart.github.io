@@ -11,6 +11,10 @@ header {
   background-color: black;
 }
 
+main {
+  height: 100vh;
+}
+
 section {
   width: 100vw;
   background-size: cover;
